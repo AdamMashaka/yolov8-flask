@@ -1,3 +1,5 @@
+# Here is my app script that will run the Flask server and handle the object detection logic.
+
 import io
 from PIL import Image
 import cv2

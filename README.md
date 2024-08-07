@@ -19,6 +19,6 @@ This repository contains a Flask web application for detecting safety equipment 
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/ayazmhmd/Yolov8-Flask-Api.git
+   git clone https://github.com/AdamMashaka
    cd your-repository-name
    python app.py
